@@ -26,7 +26,7 @@
   </ul>
 
   ### :speech_balloon: Content and comments language:
-  pt-BR 
+   🇧🇷 pt-BR 
 
   ### :memo: License
   This project is under MIT license. Check [LICENSE](LICENSE.md) for details.
